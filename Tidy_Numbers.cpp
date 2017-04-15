@@ -1,9 +1,11 @@
  //============================================================================
+//problem link :https://code.google.com/codejam/contest/3264486/dashboard#s=p1
 // Name        : Tidy_Numbers.cpp
-// Author      : 
+// Author      : mohnad sakr
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
+//status : accepted .
 //============================================================================
 
 #include <iostream>
