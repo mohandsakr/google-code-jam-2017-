@@ -1,6 +1,7 @@
 //============================================================================
+//problem link :https://code.google.com/codejam/contest/3264486/dashboard#s=p1
 // Name        : Tidy_Numbers_version3.cpp
-// Author      : 
+// Author      : mohand sakr
 // Version     :3
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
